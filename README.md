@@ -4,9 +4,10 @@ My name is Gunnar Omander, and I work as a web developer on [Wheel of Names](htt
 I am also responsible for the Wheel of Names [Discord bot](https://wheelofnames.com/faq/discordbot), made with Discord.js. The bot has been added to over 25,000 servers worldwide!
 
 Languages I am confident in:
-1. NodeJS
-2. Python
-3. Java
+1. Javascript
+2. Typescript
+3. Python
+4. Java
 
 Other skills:
 1. Vue.js
