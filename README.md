@@ -1,7 +1,9 @@
 # Welcome to my Github profile!
 My name is Gunnar Omander, and I work as a web developer on [Wheel of Names](https://wheelofnames.com). I primarily develop in Vue.js for Wheel of Names, and that's what I'm most familiar with.
 
-I am also responsible for the Wheel of Names [Discord bot](https://wheelofnames.com/faq/discordbot), made with Discord.js. The bot has been added to over 70,000 servers worldwide!
+I am also responsible for the Wheel of Names [Discord bot](https://wheelofnames.com/faq/discordbot), which has been added to over 90,000 servers worldwide!
+
+My current pet project is [DARCI.gg](https://darci.gg), a compilation of tools and data visualizations for Destiny 2.
 
 Languages I am confident in:
 1. Javascript
@@ -11,6 +13,6 @@ Languages I am confident in:
 
 Other skills:
 1. Vue.js
-2. HTML
-3. CSS
-4. Sass
+2. React
+3. HTML
+4. CSS / Sass
